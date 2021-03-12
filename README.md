@@ -1,0 +1,1 @@
+# passport-local-strategy-node
